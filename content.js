@@ -24,7 +24,7 @@ let chatSendBtn = null;
 let chatMessagesArea = null;
 
 // Gemini API key placeholder
-const GEMINI_API_KEY = 'AIzaSyB5z6qjM18BH5uKDoB5W1yDoBqMBRS1cVk';
+const GEMINI_API_KEY = 'your gemini api  key ';
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=' + GEMINI_API_KEY;
 
 // Listen for messages from background script
